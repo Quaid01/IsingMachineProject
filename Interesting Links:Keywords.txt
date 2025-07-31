@@ -1,0 +1,11 @@
+Ferromagnetic
+
+Anti-Ferromagnetic
+
+Shannon Information Theory - Basically, how information is measured, how specific choices can increase information gain, and a way to quantify certain choices.
+
+QUBO (Quadratic Unconstrained Binary Optimization Problem)
+
+Spin Glasses - magnetic state with random spin directions. Like a random configuration where all spins are not in the same direction, or anti-parallel to each other. In those cases, it the configuration would become ferromagnetic and anti-ferromagnetic respectively, but these are simply special cases of Spin Glasses.
+
+Frustration - A magnetic system of spins where there is no one configuration which gives the lowest energy. Thus the system can switch between the two states with no internal consequences. Nevertheless, since all systems want to be in their ground state they would be frustrated that there is no one configuration that gives the lowest energy.
