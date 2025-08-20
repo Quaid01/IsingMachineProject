@@ -1,0 +1,15 @@
+#PARAMETERS
+# starting_agitations = 1
+# set = [4, -9, -8, -1, -6, -9, 1, -2, -10, -40]
+# C = 100
+# sim_time = 6
+# sample = 1000
+# min_steps = 100
+
+#Note, format for DATA is [agitation_num, convergence_ratio, time for num of samples in params, counts_list]
+
+#DATA
+ counts = [
+	[1, 0.0, 0.185281334, [1000.0]],
+]
+
